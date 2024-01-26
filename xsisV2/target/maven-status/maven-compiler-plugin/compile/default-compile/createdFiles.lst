@@ -1,0 +1,6 @@
+com\perpustakaan\xsisV2\Model\Mahasiswa.class
+com\perpustakaan\xsisV2\ConfigProperties\SwaggerConfig.class
+com\perpustakaan\xsisV2\ConfigProperties\AppProperties.class
+com\perpustakaan\xsisV2\XsisV2Application.class
+com\perpustakaan\xsisV2\Repository\MahasiswaRepository.class
+com\perpustakaan\xsisV2\Controller\PerpustakaanController.class
